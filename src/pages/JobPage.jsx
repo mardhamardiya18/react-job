@@ -1,8 +1,11 @@
 import React from 'react'
+import JobList from '../components/JobList'
 
 const JobPage = () => {
     return (
-        <div>JobPage</div>
+        <section className=' bg-blue-50 py-5'>
+            <JobList />
+        </section>
     )
 }
 
