@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "b2ce",
-      "title": "Testing Job",
-      "type": "",
-      "location": "TestLoc",
-      "description": "Tetsing Description",
-      "salary": "",
-      "company": {
-        "name": "testNameCom",
-        "description": "TestDescCom",
-        "contactEmail": "com@test.com",
-        "contactPhone": "TestPhoneCom"
-      }
     }
   ]
 }
